@@ -1,0 +1,16 @@
+{
+  "rams": [
+    {
+      "id":"",
+      "manufacturer":"",
+      "category":"", // laptop, server, desktop
+      "capacity":"", //2, 4, 8, 16
+      "type":"", //pc5, pc4, pc3, pc3l, pc2
+      "state":"", //new or pull out
+      "speed":"",
+      "quantity":"",
+      "price":"",
+      "picture":""
+    },
+  ]
+}
